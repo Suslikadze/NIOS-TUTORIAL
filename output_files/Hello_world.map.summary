@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Oct 23 12:22:27 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : Hello_world
+Top-level Entity Name : UART_NIOSII
+Family : Cyclone IV E
+Total logic elements : 1,689
+    Total combinational functions : 1,502
+    Dedicated logic registers : 857
+Total registers : 857
+Total pins : 4
+Total virtual pins : 0
+Total memory bits : 570,240
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

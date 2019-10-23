@@ -1,0 +1,16 @@
+Fitter Status : Failed - Wed Oct 23 12:22:34 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : Hello_world
+Top-level Entity Name : UART_NIOSII
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 1,689 / 22,320 ( 8 % )
+    Total combinational functions : 1,502 / 22,320 ( 7 % )
+    Dedicated logic registers : 857 / 22,320 ( 4 % )
+Total registers : 857
+Total pins : 4 / 154 ( 3 % )
+Total virtual pins : 0
+Total memory bits : 570,240 / 608,256 ( 94 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
